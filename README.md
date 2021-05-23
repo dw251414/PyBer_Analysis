@@ -59,3 +59,4 @@ The city types do appear to mirror eachother with perhaps a passive relationship
 ### Implications
 Indicates a solid visual represenation of what may be socioeconomic bracketing / city type. 
 While there are no intersectional point between the difference city types, their trend lines move in unison through time - giving us a vague interpretation, but an insight nonetheless (that we could absolutely look further into if prompted), to macro-economic conditions & factors which may play a role in market volatility (fare$). 
+![challenge_figure](https://user-images.githubusercontent.com/82069038/119250946-93c82c80-bb71-11eb-9ce5-3dd66444bd80.png)
