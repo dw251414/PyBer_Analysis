@@ -18,6 +18,7 @@ Analyzing company profits and customer demographics for a ride sharing app:
     - The percent of total fares.
     - The percent of total rides.
     - The percent of total drivers.
+--- 
 ## Resources
 
 Data Sources:
@@ -25,7 +26,7 @@ city_data.csv
 ride_data.csv
 
 Software:
-Python 3.7.4
+Python 3.7.1
 Pandas 0.25.2
 Matplotlib 3.1.1
 
@@ -37,23 +38,24 @@ Matplotlib 3.1.1
 ![Fig5](https://user-images.githubusercontent.com/82069038/119248888-2cef4700-bb62-11eb-8763-5c2c2cb9f7b5.png)
 ![Fig6](https://user-images.githubusercontent.com/82069038/119248889-2d87dd80-bb62-11eb-9f53-bfb5ff363f32.png)
 ![Fig7](https://user-images.githubusercontent.com/82069038/119248890-2d87dd80-bb62-11eb-8aad-21fa74bfacd9.png)
+         
+         See PyBer.ipynb for summary statistics
 
+--- 
+## Challenge Overview
 
+Providing a summary table of key metrics. Including, ride-sharing data / city type, and a multi-line graph indicating average fare / week / city type.
 
-See PyBer.ipynb for summary statistics
+## Challenge Summary
 
+### Summary DataFrame
+Findings show great amounts of business conducted in urban cities, in comparison to suburban or rural (4-10x number of rides, & 5-30x number of drivers). 
+Furthermore, the average fares are the lowest for drivers and rides in urban cities (indicating shorter duration, & cheaper trips in urban areas -  as well as the high volume of drivers, & less earned $ on average in comparison to rural and/or suburban data).
 
-Challenge Overview
+### Multiple-line Graph
+Showing trends across city types: Urban, outrighly accounting for the most expensive fares, followed by suburban, and lastly rural. 
+The city types do appear to mirror eachother with perhaps a passive relationship (rising and plateauing in similar fashion Jan - Apr).
 
-Need to create an overall snapshot of the ride-sharing data. In addition to the scatter and pie charts, a summary table of key metrics of the ride-sharing data by city type and a multiple-line graph that shows the average fare for each week by each city type are required.
-
-Challenge Summary
-
-Summary DataFrame
-The datashows that urban cities do significantly more business than suburban or rural cities based on the the 4-10x number of rides and 5-30x number of drivers in urban cities compared to rural and suburban ones. It's also interesting to note that the average fares are the lowest for drivers and ride in urban cities. This shows that trips are shorter/cost less in urban areas and that due to the high number of drivers, each employee makes less on average in urban cities compared to rural or suburban ones.
-
-Multiple-line Graph
-The graph shows a very consistent trend across the different city types. Urban cities consistently bring in the most money, followed by suburban ones, and finally rural cities. The plots vaguely mirror eachother with all three dropping their total fares in March before peaking mid-late February.
-
-Implications
-The line graph clearly shows the different brackets of each city type's total fares. There are no parts of the graph close to intersection. However, the lines do follow similar trends through time which reflects the similarities between city types despite the total fares being different magnitudes.
+### Implications
+Indicates a solid visual represenation of what may be socioeconomic bracketing / city type. 
+While there are no intersectional point between the difference city types, their trend lines move in unison through time - giving us a vague interpretation, but an insight nonetheless (that we could absolutely look further into if prompted), to macro-economic conditions & factors which may play a role in market volatility (fare$). 
