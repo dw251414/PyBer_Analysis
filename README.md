@@ -30,6 +30,7 @@ Pandas 0.25.2
 Matplotlib 3.1.1
 
 ##Summary
+![Fig1](https://user-images.githubusercontent.com/82069038/119249094-10540e80-bb64-11eb-88bb-870df4a33d69.png)
 
 ![Fig1](https://user-images.githubusercontent.com/82069038/119248886-2cef4700-bb62-11eb-8457-f56ab43848f2.png)
 ![Fig2](https://user-images.githubusercontent.com/82069038/119248887-2cef4700-bb62-11eb-981a-7205ec4cc15d.png)
