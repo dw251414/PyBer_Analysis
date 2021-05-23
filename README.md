@@ -29,11 +29,11 @@ Python 3.7.4
 Pandas 0.25.2
 Matplotlib 3.1.1
 
-##Summary
-![Fig1](https://user-images.githubusercontent.com/82069038/119249094-10540e80-bb64-11eb-88bb-870df4a33d69.png)
-
-![Fig1](https://user-images.githubusercontent.com/82069038/119248886-2cef4700-bb62-11eb-8457-f56ab43848f2.png)
+## Summary
+![RideSharingData](https://user-images.githubusercontent.com/82069038/119250098-c2430900-bb6b-11eb-8752-42ae6c593219.png)
 ![Fig2](https://user-images.githubusercontent.com/82069038/119248887-2cef4700-bb62-11eb-981a-7205ec4cc15d.png)
+![RideFareData](https://user-images.githubusercontent.com/82069038/119249859-151bc100-bb6a-11eb-9344-d8e37371f550.png)
+![DriverCountData](https://user-images.githubusercontent.com/82069038/119249822-c837ea80-bb69-11eb-91a7-bd7d67d992bd.png)
 ![Fig5](https://user-images.githubusercontent.com/82069038/119248888-2cef4700-bb62-11eb-8763-5c2c2cb9f7b5.png)
 ![Fig6](https://user-images.githubusercontent.com/82069038/119248889-2d87dd80-bb62-11eb-9f53-bfb5ff363f32.png)
 ![Fig7](https://user-images.githubusercontent.com/82069038/119248890-2d87dd80-bb62-11eb-8aad-21fa74bfacd9.png)
